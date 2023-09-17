@@ -1,5 +1,5 @@
 # SR GAN
-Trained for enough epochs to see results however did not converge. Possible that if trained slower and lower learing rate it might converge better but the results do not look promising
+Trained for enough epochs to see results however did not converge. Possible that if trained slower and lower learning rate it might converge better but the results do not look promising
 
 # Example of input
 ![1](./0_down_scaled_0115.png)

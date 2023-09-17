@@ -1,6 +1,6 @@
 # Variable Auto Encoder
 
-Simple proof of consept for VAR. Trained on MNIST dataset
+Simple proof of concept for VAR. Trained on MNIST dataset
 
 # Generated Examples
 ![1](./generated_6_ex3.png)

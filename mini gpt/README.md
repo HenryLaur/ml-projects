@@ -1,6 +1,6 @@
 # Mini gpt
 
-Trained a mini gpt model on texts of shakespeare
+Trained a mini gpt model on texts of Shakespeare
 
 Using Andrej Karpathy's excellent video https://www.youtube.com/watch?v=kCc8FmEb1nY
 
